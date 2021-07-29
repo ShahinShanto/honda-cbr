@@ -33,3 +33,7 @@ body{
 .filter {
     filter: grayscale(100%);
   }
+  .bg-footer{
+    background-color: #0B0D17;
+
+  }
