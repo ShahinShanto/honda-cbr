@@ -6,6 +6,9 @@ body{
 .bg-color{
     background-color: #264653;
 }
+.featured-img{
+    width: 21rem;
+}
 .btn-color{
     background-color: #E76F51;
 }
@@ -24,3 +27,9 @@ body{
 .fa-star-half-alt{
     color: #E77C40;
 }
+.focus:focus{
+    color: #E77C40;
+}
+.filter {
+    filter: grayscale(100%);
+  }
